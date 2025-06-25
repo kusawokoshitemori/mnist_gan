@@ -5,7 +5,7 @@
 data/
 
 # 生成画像
-generated_images/
+# generated_images/
 
 # その他のPython関連でGitに含めないもの（一般的な設定）
 __pycache__/
