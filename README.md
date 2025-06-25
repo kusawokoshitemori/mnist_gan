@@ -1,3 +1,4 @@
-GAN画像で遊ぶことを目的とする
+GAN 画像で遊ぶことを目的とする
 
-まずmnistを使用してGANの理解を深める
+実行方法
+python3 gan_mnist.py を実行

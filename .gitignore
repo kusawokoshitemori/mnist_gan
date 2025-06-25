@@ -1,0 +1,19 @@
+# 仮想環境
+.venv/
+
+# データセットファイル
+data/
+
+# 生成画像
+generated_images/
+
+# その他のPython関連でGitに含めないもの（一般的な設定）
+__pycache__/
+*.pyc
+*.log
+.mypy_cache/
+.pytest_cache/
+.vscode/
+
+# OSやIDEが生成する一時ファイル
+.DS_Store # macOS
